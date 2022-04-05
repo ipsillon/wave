@@ -136,7 +136,7 @@ return [
          */
         'locales' => [
             'en',
-            //'pt',
+            //'pt_BR',
         ],
     ],
 
